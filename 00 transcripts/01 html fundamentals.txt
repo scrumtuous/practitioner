@@ -1,0 +1,38 @@
+You don't have to be an expert programmer to be successful in IT. But you do need to know  the basic concepts. Understanding how web based components work is one of those basic concepts you need to know.
+
+I've got a really simple way to teach you how HTML and web pages work.
+
+Just go to my "Introduction to HTML" webpage and drag and drop your way the understanding HTML.
+
+HTML is 'markup language' used to describe how a page is structured, and how the content on that page is laid out. It uses tags, like this HTML tag, to describe things like the start of the HTML page.
+
+So the first move is to drag the html tag to the top of the page.
+
+Every tag has a matching 'closing tag', so drag the 'end html' tag to the bottom of the page.
+
+These two tags now mark the start and end of the webpage.
+
+At the top of an HTML page is its head. So add a head tag. THen put in the page title.
+
+Notice that the title tag starts and ends on the same line, with the test to be displayed as the title put between them.
+
+THe title is the only thing to go in the head, so close the head section.
+
+
+One of the rules is that all tags must be cleanly embedded in their 'parent.' 
+
+After the head goes the body. 
+
+And the first thing inside the body with be the text "Hello World!", displayed as a navy blue heading.
+
+Then will add a quick paragraph telling people to be scrumtuous. The paragraph includes an anchor tag that creates a link to my site, scrumtuous.com.
+
+Close the body and you're done with the drag and drop.
+
+Now copy the HTML and paste it into a text file on your desktop named index.html
+
+Save the file and open it up in a web browser. You will see that you have successfully created a webpage with a title, a heading, and a paragraph that links to my website.
+
+And now you know the fundamentals of HTML!
+
+
