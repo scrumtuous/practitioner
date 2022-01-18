@@ -1,0 +1,46 @@
+
+
+
+
+The problem with HTML is that it's static. It can't interact with the user.
+
+To make a webpage interact, JavaScript needs to be added. 
+
+In this quick tutorial, we are going to drag and drop our way to learning how HTML and JavaScript works together.
+
+Our goal is to code a little number-guesser game with five clickable buttons.
+
+If the user guesses too high, they're asked to guess lower. If they guess too low, they're told to guess higher. If they guess the right number, they're congratulated.
+
+To start, we just need to get the HTML in place. We're experts at web page development, so I'll let you tackle that on your own.
+
+Good.
+
+As you can see in the HTML, there are five buttons. And each one calls a method called playTheGame when they are clicked. Let's code that JavaScript method.
+
+First, add the open and close script tags.
+
+Inside the script, create a variable to hold the magic number to be guessed.
+
+Then declare your method.
+
+Notice the method includes an open brace. We will have to match that with a closing brace later.
+
+Declare a varaible named response to hold the text to be displayed to the user after they click on a button.
+
+Implement the logic needed to deal with a guess that's too high. Note that you must close the if statements open brace.
+
+Now handle the condition where the user guessed too low.
+
+Now implement the logic for when the user guessed the magic number correctly.
+
+There's a DIV tag on the webpage with an id of 'results'. Update the inner HTML of this DIV tag and then close the method.
+
+Close the body and html tags and you're done with the drag and drop.
+
+Copy the code and paste it into a file named numberguesser.html on your desktop. Save the file and then open the page in a web browser.
+
+Now have fun playing the neat little number-guesser game you built!
+
+
+
